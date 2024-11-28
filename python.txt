@@ -1,0 +1,1 @@
+python is a general purpose high level interpreted language.
