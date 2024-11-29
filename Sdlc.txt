@@ -1,1 +1,5 @@
-added new
+SDLC = software development life cycle.
+
+SDLC is just a fancy way of saying "the steps or stages that developers follow to build software
+
+Think of it like a recipe for making a dish. You follow different steps, from gathering ingredients to cooking and serving. Similarly, in SDLC, developers follow a series of steps to create software, making sure it works well and meets the needs of the users.
