@@ -1,2 +1,2 @@
 python is a general purpose high level interpreted language.
-no changes
+it is used in web development and machine learning 
