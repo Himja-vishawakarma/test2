@@ -1,3 +1,2 @@
 python is a general purpose high level interpreted language.
-
-added more changes in python txt
+no changes
